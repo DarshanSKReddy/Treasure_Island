@@ -1,0 +1,14 @@
+
+---
+
+## **GitHub Upload Instructions:**
+
+1️⃣ Create a new repo:  
+```bash
+git init  
+git add .  
+git commit -m "Initial commit - Treasure Island Web"  
+git branch -M main  
+git remote add origin https://github.com/YOUR_USERNAME/Treasure-Island-Web.git  
+git push -u origin main  
+

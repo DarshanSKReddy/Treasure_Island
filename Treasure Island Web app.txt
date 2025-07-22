@@ -1,0 +1,18 @@
+Treasure-Island-Web/
+│
+├── app.py                # Main Flask App
+├── templates/
+│   ├── index.html         # Game Home
+│   ├── game.html          # Game Interaction Page
+│   └── result.html        # Game Result
+├── static/
+│   ├── css/
+│   │   └── style.css       # Custom Styles
+│   └── images/
+│       └── treasure.png    # Game Images
+├── exports/
+│   └── (Generated PDFs/Images)
+├── README.md
+├── requirements.txt
+└── .gitignore
+
